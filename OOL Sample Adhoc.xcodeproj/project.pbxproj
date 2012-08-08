@@ -43,27 +43,27 @@
 		DED33645155D52AA00DBB25E /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		DED33647155D52AA00DBB25E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		DED33649155D52AA00DBB25E /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		DED3364D155D52AA00DBB25E /* OOL Sample Adhoc-Info.plist */ = {isa = PBXFileReference; path = "OOL Sample Adhoc-Info.plist"; sourceTree = "<group>"; };
+		DED3364D155D52AA00DBB25E /* OOL Sample Adhoc-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "OOL Sample Adhoc-Info.plist"; sourceTree = "<group>"; };
 		DED3364F155D52AA00DBB25E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		DED33651155D52AA00DBB25E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		DED33653155D52AA00DBB25E /* OOL Sample Adhoc-Prefix.pch */ = {isa = PBXFileReference; path = "OOL Sample Adhoc-Prefix.pch"; sourceTree = "<group>"; };
-		DED33654155D52AA00DBB25E /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		DED33653155D52AA00DBB25E /* OOL Sample Adhoc-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "OOL Sample Adhoc-Prefix.pch"; sourceTree = "<group>"; };
+		DED33654155D52AA00DBB25E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		DED33655155D52AA00DBB25E /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		DED33658155D52AA00DBB25E /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
 		DED3365B155D52AA00DBB25E /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
-		DED3365D155D52AA00DBB25E /* FirstViewController.h */ = {isa = PBXFileReference; path = FirstViewController.h; sourceTree = "<group>"; };
+		DED3365D155D52AA00DBB25E /* FirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
 		DED3365E155D52AA00DBB25E /* FirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
 		DED33660155D52AA00DBB25E /* first.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = first.png; sourceTree = "<group>"; };
 		DED33662155D52AA00DBB25E /* first@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "first@2x.png"; sourceTree = "<group>"; };
-		DED33664155D52AA00DBB25E /* SecondViewController.h */ = {isa = PBXFileReference; path = SecondViewController.h; sourceTree = "<group>"; };
+		DED33664155D52AA00DBB25E /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
 		DED33665155D52AA00DBB25E /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 		DED33667155D52AA00DBB25E /* second.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = second.png; sourceTree = "<group>"; };
 		DED33669155D52AA00DBB25E /* second@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "second@2x.png"; sourceTree = "<group>"; };
 		DED33670155D52AA00DBB25E /* OOL Sample AdhocTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "OOL Sample AdhocTests.octest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DED33671155D52AA00DBB25E /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		DED33679155D52AA00DBB25E /* OOL Sample AdhocTests-Info.plist */ = {isa = PBXFileReference; path = "OOL Sample AdhocTests-Info.plist"; sourceTree = "<group>"; };
+		DED33679155D52AA00DBB25E /* OOL Sample AdhocTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "OOL Sample AdhocTests-Info.plist"; sourceTree = "<group>"; };
 		DED3367B155D52AA00DBB25E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		DED3367D155D52AA00DBB25E /* OOL_Sample_AdhocTests.h */ = {isa = PBXFileReference; path = OOL_Sample_AdhocTests.h; sourceTree = "<group>"; };
+		DED3367D155D52AA00DBB25E /* OOL_Sample_AdhocTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OOL_Sample_AdhocTests.h; sourceTree = "<group>"; };
 		DED3367E155D52AA00DBB25E /* OOL_Sample_AdhocTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OOL_Sample_AdhocTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -393,10 +393,14 @@
 		DED33683155D52AA00DBB25E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Distribution: OCTO Technology";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: OCTO Technology";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "OOL Sample Adhoc/OOL Sample Adhoc-Prefix.pch";
 				INFOPLIST_FILE = "OOL Sample Adhoc/OOL Sample Adhoc-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "302EA846-48B3-4F3F-98FF-AFBAE6322BE3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "302EA846-48B3-4F3F-98FF-AFBAE6322BE3";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -404,10 +408,14 @@
 		DED33684155D52AA00DBB25E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Distribution: OCTO Technology";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: OCTO Technology";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "OOL Sample Adhoc/OOL Sample Adhoc-Prefix.pch";
 				INFOPLIST_FILE = "OOL Sample Adhoc/OOL Sample Adhoc-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "302EA846-48B3-4F3F-98FF-AFBAE6322BE3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "302EA846-48B3-4F3F-98FF-AFBAE6322BE3";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -465,6 +473,7 @@
 				DED33684155D52AA00DBB25E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DED33685155D52AA00DBB25E /* Build configuration list for PBXNativeTarget "OOL Sample AdhocTests" */ = {
 			isa = XCConfigurationList;
@@ -473,6 +482,7 @@
 				DED33687155D52AA00DBB25E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
